@@ -1,4 +1,5 @@
 import java.util.Scanner;
+///ss is used as key in place of origin min github
 class MergeSort
 {
 	static void merge(int[] arr, int l, int m, int r)
